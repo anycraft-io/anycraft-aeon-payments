@@ -1,0 +1,594 @@
+[
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "hmac",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hmac",
+        "description": "hmac",
+        "detail": "hmac",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "telegram",
+        "description": "telegram",
+        "isExtraImport": true,
+        "detail": "telegram",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "telegram",
+        "description": "telegram",
+        "isExtraImport": true,
+        "detail": "telegram",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "telegram",
+        "description": "telegram",
+        "isExtraImport": true,
+        "detail": "telegram",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "telegram",
+        "description": "telegram",
+        "isExtraImport": true,
+        "detail": "telegram",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "telegram",
+        "description": "telegram",
+        "isExtraImport": true,
+        "detail": "telegram",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "telegram",
+        "description": "telegram",
+        "isExtraImport": true,
+        "detail": "telegram",
+        "documentation": {}
+    },
+    {
+        "label": "Application",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "CommandHandler",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQueryHandler",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "PreCheckoutQueryHandler",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "ContextTypes",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "MessageHandler",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "ContextTypes",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "localizations",
+        "importPath": "localizations",
+        "description": "localizations",
+        "isExtraImport": true,
+        "detail": "localizations",
+        "documentation": {}
+    },
+    {
+        "label": "buy_boosters",
+        "importPath": "boosters",
+        "description": "boosters",
+        "isExtraImport": true,
+        "detail": "boosters",
+        "documentation": {}
+    },
+    {
+        "label": "BOOSTERS",
+        "importPath": "boosters",
+        "description": "boosters",
+        "isExtraImport": true,
+        "detail": "boosters",
+        "documentation": {}
+    },
+    {
+        "label": "process_booster_purchase",
+        "importPath": "boosters",
+        "description": "boosters",
+        "isExtraImport": true,
+        "detail": "boosters",
+        "documentation": {}
+    },
+    {
+        "label": "TG_TOKEN",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "TMA_URL",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "API_URL",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "COMMUNITY_LINK",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CHAT_EN_LINK",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CHAT_RU_LINK",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "SITE_LINK",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "PRODUCTION",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "IS_RC",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "AUTHORIZED_USERS",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "APP_ID",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentAPI",
+        "importPath": "payment",
+        "description": "payment",
+        "isExtraImport": true,
+        "detail": "payment",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "anycraft_bot",
+        "description": "anycraft_bot",
+        "peekOfCode": "def main():\n    \"\"\"Initialize and start the bot\"\"\"\n    application = Application.builder().token(TG_TOKEN).build()\n    # Register handlers\n    application.add_handler(CommandHandler(\"start\", start))\n    application.add_handler(CommandHandler(\"buy_boosters\", buy_boosters))\n    application.add_handler(PreCheckoutQueryHandler(precheckout_callback))\n    application.add_handler(MessageHandler(filters.SUCCESSFUL_PAYMENT, successful_payment_callback))\n    application.add_handler(CallbackQueryHandler(button_callback))\n    application.add_handler(MessageHandler(filters.ALL, all_messages_callback))",
+        "detail": "anycraft_bot",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "anycraft_bot",
+        "description": "anycraft_bot",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nWELCOME_VIDEO_ID = 'intro.mp4'\nasync def start(update: Update, context):\n    \"\"\"Handle /start command and display main menu\"\"\"\n    user_id = update.message.from_user.id\n    # Check authorization for non-production/RC environment\n    if (not PRODUCTION or IS_RC) and user_id not in AUTHORIZED_USERS:\n        await update.message.reply_text(\"🔐 Access denied!\")\n        return\n    # Get user language and localization",
+        "detail": "anycraft_bot",
+        "documentation": {}
+    },
+    {
+        "label": "WELCOME_VIDEO_ID",
+        "kind": 5,
+        "importPath": "anycraft_bot",
+        "description": "anycraft_bot",
+        "peekOfCode": "WELCOME_VIDEO_ID = 'intro.mp4'\nasync def start(update: Update, context):\n    \"\"\"Handle /start command and display main menu\"\"\"\n    user_id = update.message.from_user.id\n    # Check authorization for non-production/RC environment\n    if (not PRODUCTION or IS_RC) and user_id not in AUTHORIZED_USERS:\n        await update.message.reply_text(\"🔐 Access denied!\")\n        return\n    # Get user language and localization\n    user_lang = update.effective_user.language_code[:2]",
+        "detail": "anycraft_bot",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "boosters",
+        "description": "boosters",
+        "peekOfCode": "logger = logging.getLogger(__name__)\npayment_api = PaymentAPI()\n# Booster packages configuration\nBOOSTERS = {\n    \"5\": {\n        \"price\": 100,  # Price in cents\n        \"amount\": 5,\n        \"callback_data\": \"boost_5\"\n    },\n    \"10\": {",
+        "detail": "boosters",
+        "documentation": {}
+    },
+    {
+        "label": "payment_api",
+        "kind": 5,
+        "importPath": "boosters",
+        "description": "boosters",
+        "peekOfCode": "payment_api = PaymentAPI()\n# Booster packages configuration\nBOOSTERS = {\n    \"5\": {\n        \"price\": 100,  # Price in cents\n        \"amount\": 5,\n        \"callback_data\": \"boost_5\"\n    },\n    \"10\": {\n        \"price\": 150,",
+        "detail": "boosters",
+        "documentation": {}
+    },
+    {
+        "label": "BOOSTERS",
+        "kind": 5,
+        "importPath": "boosters",
+        "description": "boosters",
+        "peekOfCode": "BOOSTERS = {\n    \"5\": {\n        \"price\": 100,  # Price in cents\n        \"amount\": 5,\n        \"callback_data\": \"boost_5\"\n    },\n    \"10\": {\n        \"price\": 150,\n        \"amount\": 10,\n        \"callback_data\": \"boost_10\"",
+        "detail": "boosters",
+        "documentation": {}
+    },
+    {
+        "label": "APP_ID",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "APP_ID = os.getenv(\"AEON_APP_ID\")\nSECRET_KEY = os.getenv(\"AEON_SECRET_KEY\")\nBASE_URL = os.getenv(\"AEON_BASE_URL\", \"https://sbx-crypto-payment-api.aeon.xyz\")\n# Telegram Bot Configuration\nTG_TOKEN = os.getenv(\"TG_TOKEN\")\nTMA_URL = os.getenv(\"TMA_URL\", \"https://tma.anycraft.io/\")\nAPI_URL = os.getenv(\"API_URL\", \"https://api.anycraft.io/api/v1/\")\n# Telegram Channel Links\nCOMMUNITY_LINK = os.getenv(\"COMMUNITY_LINK\", \"https://t.me/anycraft_community\")\nCHAT_EN_LINK = os.getenv(\"CHAT_EN_LINK\", \"https://t.me/anycraft_chat_en\")",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "SECRET_KEY = os.getenv(\"AEON_SECRET_KEY\")\nBASE_URL = os.getenv(\"AEON_BASE_URL\", \"https://sbx-crypto-payment-api.aeon.xyz\")\n# Telegram Bot Configuration\nTG_TOKEN = os.getenv(\"TG_TOKEN\")\nTMA_URL = os.getenv(\"TMA_URL\", \"https://tma.anycraft.io/\")\nAPI_URL = os.getenv(\"API_URL\", \"https://api.anycraft.io/api/v1/\")\n# Telegram Channel Links\nCOMMUNITY_LINK = os.getenv(\"COMMUNITY_LINK\", \"https://t.me/anycraft_community\")\nCHAT_EN_LINK = os.getenv(\"CHAT_EN_LINK\", \"https://t.me/anycraft_chat_en\")\nCHAT_RU_LINK = os.getenv(\"CHAT_RU_LINK\", \"https://t.me/anycraft_chat_ru\")",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "BASE_URL = os.getenv(\"AEON_BASE_URL\", \"https://sbx-crypto-payment-api.aeon.xyz\")\n# Telegram Bot Configuration\nTG_TOKEN = os.getenv(\"TG_TOKEN\")\nTMA_URL = os.getenv(\"TMA_URL\", \"https://tma.anycraft.io/\")\nAPI_URL = os.getenv(\"API_URL\", \"https://api.anycraft.io/api/v1/\")\n# Telegram Channel Links\nCOMMUNITY_LINK = os.getenv(\"COMMUNITY_LINK\", \"https://t.me/anycraft_community\")\nCHAT_EN_LINK = os.getenv(\"CHAT_EN_LINK\", \"https://t.me/anycraft_chat_en\")\nCHAT_RU_LINK = os.getenv(\"CHAT_RU_LINK\", \"https://t.me/anycraft_chat_ru\")\nSITE_LINK = os.getenv(\"SITE_LINK\", \"https://anycraft.io\")",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "TG_TOKEN",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "TG_TOKEN = os.getenv(\"TG_TOKEN\")\nTMA_URL = os.getenv(\"TMA_URL\", \"https://tma.anycraft.io/\")\nAPI_URL = os.getenv(\"API_URL\", \"https://api.anycraft.io/api/v1/\")\n# Telegram Channel Links\nCOMMUNITY_LINK = os.getenv(\"COMMUNITY_LINK\", \"https://t.me/anycraft_community\")\nCHAT_EN_LINK = os.getenv(\"CHAT_EN_LINK\", \"https://t.me/anycraft_chat_en\")\nCHAT_RU_LINK = os.getenv(\"CHAT_RU_LINK\", \"https://t.me/anycraft_chat_ru\")\nSITE_LINK = os.getenv(\"SITE_LINK\", \"https://anycraft.io\")\n# Environment settings\nPRODUCTION = os.getenv(\"PRODUCTION\", \"true\").lower() == \"true\"",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "TMA_URL",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "TMA_URL = os.getenv(\"TMA_URL\", \"https://tma.anycraft.io/\")\nAPI_URL = os.getenv(\"API_URL\", \"https://api.anycraft.io/api/v1/\")\n# Telegram Channel Links\nCOMMUNITY_LINK = os.getenv(\"COMMUNITY_LINK\", \"https://t.me/anycraft_community\")\nCHAT_EN_LINK = os.getenv(\"CHAT_EN_LINK\", \"https://t.me/anycraft_chat_en\")\nCHAT_RU_LINK = os.getenv(\"CHAT_RU_LINK\", \"https://t.me/anycraft_chat_ru\")\nSITE_LINK = os.getenv(\"SITE_LINK\", \"https://anycraft.io\")\n# Environment settings\nPRODUCTION = os.getenv(\"PRODUCTION\", \"true\").lower() == \"true\"\nIS_RC = os.getenv(\"IS_RC\", \"false\").lower() == \"true\"",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "API_URL",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "API_URL = os.getenv(\"API_URL\", \"https://api.anycraft.io/api/v1/\")\n# Telegram Channel Links\nCOMMUNITY_LINK = os.getenv(\"COMMUNITY_LINK\", \"https://t.me/anycraft_community\")\nCHAT_EN_LINK = os.getenv(\"CHAT_EN_LINK\", \"https://t.me/anycraft_chat_en\")\nCHAT_RU_LINK = os.getenv(\"CHAT_RU_LINK\", \"https://t.me/anycraft_chat_ru\")\nSITE_LINK = os.getenv(\"SITE_LINK\", \"https://anycraft.io\")\n# Environment settings\nPRODUCTION = os.getenv(\"PRODUCTION\", \"true\").lower() == \"true\"\nIS_RC = os.getenv(\"IS_RC\", \"false\").lower() == \"true\"\n# Authorized users for testing",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "COMMUNITY_LINK",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "COMMUNITY_LINK = os.getenv(\"COMMUNITY_LINK\", \"https://t.me/anycraft_community\")\nCHAT_EN_LINK = os.getenv(\"CHAT_EN_LINK\", \"https://t.me/anycraft_chat_en\")\nCHAT_RU_LINK = os.getenv(\"CHAT_RU_LINK\", \"https://t.me/anycraft_chat_ru\")\nSITE_LINK = os.getenv(\"SITE_LINK\", \"https://anycraft.io\")\n# Environment settings\nPRODUCTION = os.getenv(\"PRODUCTION\", \"true\").lower() == \"true\"\nIS_RC = os.getenv(\"IS_RC\", \"false\").lower() == \"true\"\n# Authorized users for testing\nAUTHORIZED_USERS = [\n    327090911,  # danikula",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CHAT_EN_LINK",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "CHAT_EN_LINK = os.getenv(\"CHAT_EN_LINK\", \"https://t.me/anycraft_chat_en\")\nCHAT_RU_LINK = os.getenv(\"CHAT_RU_LINK\", \"https://t.me/anycraft_chat_ru\")\nSITE_LINK = os.getenv(\"SITE_LINK\", \"https://anycraft.io\")\n# Environment settings\nPRODUCTION = os.getenv(\"PRODUCTION\", \"true\").lower() == \"true\"\nIS_RC = os.getenv(\"IS_RC\", \"false\").lower() == \"true\"\n# Authorized users for testing\nAUTHORIZED_USERS = [\n    327090911,  # danikula\n    12390,      # Alex_mm3",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CHAT_RU_LINK",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "CHAT_RU_LINK = os.getenv(\"CHAT_RU_LINK\", \"https://t.me/anycraft_chat_ru\")\nSITE_LINK = os.getenv(\"SITE_LINK\", \"https://anycraft.io\")\n# Environment settings\nPRODUCTION = os.getenv(\"PRODUCTION\", \"true\").lower() == \"true\"\nIS_RC = os.getenv(\"IS_RC\", \"false\").lower() == \"true\"\n# Authorized users for testing\nAUTHORIZED_USERS = [\n    327090911,  # danikula\n    12390,      # Alex_mm3\n    376061527,  # alshund",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "SITE_LINK",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "SITE_LINK = os.getenv(\"SITE_LINK\", \"https://anycraft.io\")\n# Environment settings\nPRODUCTION = os.getenv(\"PRODUCTION\", \"true\").lower() == \"true\"\nIS_RC = os.getenv(\"IS_RC\", \"false\").lower() == \"true\"\n# Authorized users for testing\nAUTHORIZED_USERS = [\n    327090911,  # danikula\n    12390,      # Alex_mm3\n    376061527,  # alshund\n    180986213,  # collapserage",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "PRODUCTION",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "PRODUCTION = os.getenv(\"PRODUCTION\", \"true\").lower() == \"true\"\nIS_RC = os.getenv(\"IS_RC\", \"false\").lower() == \"true\"\n# Authorized users for testing\nAUTHORIZED_USERS = [\n    327090911,  # danikula\n    12390,      # Alex_mm3\n    376061527,  # alshund\n    180986213,  # collapserage\n    7271210433, # anycrafter\n    5171688020, # Ello4kaludoedka",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "IS_RC",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "IS_RC = os.getenv(\"IS_RC\", \"false\").lower() == \"true\"\n# Authorized users for testing\nAUTHORIZED_USERS = [\n    327090911,  # danikula\n    12390,      # Alex_mm3\n    376061527,  # alshund\n    180986213,  # collapserage\n    7271210433, # anycrafter\n    5171688020, # Ello4kaludoedka\n    41800908,   # ala_mel",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "AUTHORIZED_USERS",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "AUTHORIZED_USERS = [\n    327090911,  # danikula\n    12390,      # Alex_mm3\n    376061527,  # alshund\n    180986213,  # collapserage\n    7271210433, # anycrafter\n    5171688020, # Ello4kaludoedka\n    41800908,   # ala_mel\n    118658613,  # str117117 (M X)\n    428099563,  # OxMkindly",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "localizations",
+        "kind": 5,
+        "importPath": "localizations",
+        "description": "localizations",
+        "peekOfCode": "localizations = {\n'en': {\n    'welcome_message': \"\"\"\n* \n👋 Welcome to Anycraft\\\\!*\nAnycraft is an AI\\\\-powered game where you can create anything\\\\! ✨\n*🛠️ How to Play*\nDrag one item over another to make something new\\\\. Find special items no one has made before to earn 🌟 gold stars and 100 coins\\\\! Discover new ways to create known items and get ⭐ silver stars and 20 coins\\\\. Keep an eye out for these items — they’re worth it\\\\! 💎\n*⚡ Energy and Boosters*\nCrafting uses energy, which refills over time\\\\. Need a quick refill? Complete tasks, invite friends, or use Telegram stars to get boosters 🔋 and keep crafting\\\\!",
+        "detail": "localizations",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "kind": 6,
+        "importPath": "payment",
+        "description": "payment",
+        "peekOfCode": "class OrderStatus(Enum):\n    \"\"\"Payment order status enumeration\"\"\"\n    INIT = \"INIT\"  # Initial state\n    PROCESSING = \"PROCESSING\"  # Payment in progress\n    COMPLETED = \"COMPLETED\"  # Payment successful\n    CLOSE = \"CLOSE\"  # Order closed\n    TIMEOUT = \"TIMEOUT\"  # Payment timeout\n    FAILED = \"FAILED\"  # Payment failed\n    DELAY_SUCCESS = \"DELAY_SUCCESS\"  # Success after delay\n    DELAY_FAILED = \"DELAY_FAILED\"  # Failure after delay",
+        "detail": "payment",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentAPI",
+        "kind": 6,
+        "importPath": "payment",
+        "description": "payment",
+        "peekOfCode": "class PaymentAPI:\n    \"\"\"API wrapper for AEON payment system\"\"\"\n    def __init__(self):\n        self.APP_ID = APP_ID\n        self.SECRET_KEY = SECRET_KEY\n        self.BASE_URL = BASE_URL\n        self.HEADERS = {\"Content-Type\": \"application/json\"}\n    def generate_sign(self, params: Dict[str, Any]) -> str:\n        \"\"\"Generate signature for API request parameters\"\"\"\n        # Filter and convert parameters",
+        "detail": "payment",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "payment",
+        "description": "payment",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass OrderStatus(Enum):\n    \"\"\"Payment order status enumeration\"\"\"\n    INIT = \"INIT\"  # Initial state\n    PROCESSING = \"PROCESSING\"  # Payment in progress\n    COMPLETED = \"COMPLETED\"  # Payment successful\n    CLOSE = \"CLOSE\"  # Order closed\n    TIMEOUT = \"TIMEOUT\"  # Payment timeout\n    FAILED = \"FAILED\"  # Payment failed\n    DELAY_SUCCESS = \"DELAY_SUCCESS\"  # Success after delay",
+        "detail": "payment",
+        "documentation": {}
+    }
+]
